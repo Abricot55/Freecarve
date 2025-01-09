@@ -1,26 +1,26 @@
-# GLO-2004 - Équipe 02
+# Description
+Ce projet a été réalisé dans le cadre du cours de génie logiciel orienté objet à l'Université Laval. Le mandat consistait à développer, pour le lab-usine de l'Université Laval, un logiciel capable de configurer une planche et de permettre à l'utilisateur de définir des coupes, qui seront ensuite effectuées par la machine de coupe CNC du lab-usine.
+
+L'exportation du projet en GCode permet à la machine de réaliser les coupes une fois que l'utilisateur est satisfait de la configuration. Vous trouverez ci-dessous des explications sur l'utilisation du logiciel.
+
 ## Membres de l'équipe
-- Antoine Morin - NI: 537 089 065
-- Louis-Etienne Messier - NI: 537 131 157
-- Adam Côté - NI: 537 145 036
-- Sébastien Dubé - NI: 537 153 241
-- Kamran Charles Nayebi - NI: 537 150 671
+- Antoine Morin
+- Louis-Etienne Messier
+- Adam Côté
+- Sébastien Dubé
+- Kamran Charles Nayebi
 
-
-## Livrable 3
 ### Lancement de l'application
 Le fichier .jar pour l'application se trouve à la racine du projet. Il suffit
 de lancer ce fichier pour lancer l'application.
 
 ### Création d'un nouveau projet
-Une fois l'application lancée, on arrive sur un menu des fichiers. Pour créer un nouveau
-projet, on peut cliquer sur le bouton "Nouveau projet". <br>
+Une fois l'application lancée, vous accédez au menu des fichiers. Pour créer un nouveau projet, cliquez sur le bouton "Nouveau projet".
 
 ### Visualisation du panneau
-On arrive alors dans le menu de configuration. Un panneau est créé par défaut et affiché. Pour
-vérifier les dimensions de ce panneau, il suffit de cliquer dessus. Les informations s'afficheront sur la
-droite dans le panneau des attributs. On pourra alors modifier la taille du panneau dans les champs prévus
-à cet effet. N'hésitez pas à zoomer ou dézoomer ou déplacer le panneau afin d'ajuster la visualisation comme souhaitée.
+Après avoir créé un projet, vous arrivez dans le menu de configuration. Un panneau est automatiquement créé et affiché.
+Pour vérifier les dimensions de ce panneau, cliquez dessus. Les informations correspondantes s'afficheront à droite, dans le panneau des attributs. Vous pourrez alors modifier la taille du panneau dans les champs dédiés.
+N'hésitez pas à zoomer, dézoomer ou déplacer le panneau pour ajuster la visualisation selon vos besoins.
 
 ### Création d'une coupe
 Pour créer une coupe, il faut être dans la fenêtre de coupe. Pour passer à cette fenêtre, il suffit de cliquer sur le bouton
@@ -44,4 +44,4 @@ La coupe sera alors déplacée à 400mm.
 
 ### Suppression d'une coupe
 Pour supprimer une coupe, on peut cliquer sur le bouton de la corbeille rouge qui correspond à la coupe que l'on veut
-supprimer. La coupe sera alors supprimée et retirer du panneau.
+supprimer. La coupe sera alors supprimée et retirée du panneau.
