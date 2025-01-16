@@ -8,7 +8,7 @@ L'exportation du projet en GCode permet à la machine de réaliser les coupes un
 - Louis-Etienne Messier
 - Adam Côté
 - Sébastien Dubé
-- Kamran Charles Nayebi
+- Sophie Charles Nayebi
 
 ### Lancement de l'application
 Le fichier .jar pour l'application se trouve à la racine du projet. Il suffit
